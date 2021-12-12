@@ -48,3 +48,6 @@ npm install nodemon -D
 
 ### Instalar paquete para subir a un servidor de manera global
 npm install -g now
+
+### Habilitar la ejecución de ps1 (https://www.blai.blog/2019/05/habilitar-ejecucion-de-archivos-ps1-en.html) para poder hacer uso de los comandos de 'now' y subir el proyecto a un servidor
+Set-ExecutionPolicy -Scope LocalMachine unrestricted
