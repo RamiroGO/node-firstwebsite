@@ -1,6 +1,4 @@
-Tutorial Fazt (https://youtu.be/sh-NanMOh1Q)
-(https://github.com/FaztWeb/first-node-express-app)
-
+Tutorial Fazt (https://youtu.be/sh-NanMOh1Q)(https://github.com/FaztWeb/first-node-express-app)
 # Screenshot
 ![](docs/screenshot.png)
 
